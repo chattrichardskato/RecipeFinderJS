@@ -1,0 +1,16 @@
+{
+  "name": "recipefinderjs",
+  "version": "1.0.0",
+  "description": "A terminal recipe finder built with Node.js, ES6 array methods, recursion, and the chalk library.",
+  "main": "src/main.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": ["recipes", "javascript", "nodejs", "es6"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
