@@ -19,7 +19,7 @@ program relies on clearly isolated in its own file. I wanted the code to be read
 that someone else could point at any one line and see exactly which JavaScript concept it
 demonstrates.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/b551d881c70c4aacb5531fe49618747e)
 
 # Development Environment
 
